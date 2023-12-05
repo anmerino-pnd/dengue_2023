@@ -3,10 +3,10 @@
 Este trabajo es el proyecto final de la materia de Introducción a la Ciencia de Datos, de la Maestría en Ciencia de Datos de la Universidad de Sonora. El ojetivo general del presente proyecto es aplicar algunas de las herramientas vistas durante el curso. De entre estas herramientas, se destaca la creación y manipulación de estructuras de datos en SQL. Esto se efectúa dentro de un entorno de programación Python, de modo que dichas manipulaciones puedan complementarse con visualizaciones de la relación entre variables.
 
 **Integrantes de equipo**
-- Barreras José Carlos
-- Gaytan Jesús Martin
-- Merino Angel
-- Minjarez Victor
+- Barreras Maldonado José Carlos
+- Gaytan Villareal Jesús Martin
+- Merino Cedeño Angel Alberto
+- Minjares Neriz Victor Manuel
 
 ## Datos utilizados
 

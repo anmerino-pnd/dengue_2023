@@ -1,4 +1,4 @@
-# Exploración de los datos abiertos bases históricas de enfermedades transmitidas por vector de México
+# Exploración de los datos abiertos de las bases históricas de enfermedades transmitidas por vector en México
 
 Este trabajo es el proyecto final de la materia de Introducción a la Ciencia de Datos, de la Maestría en Ciencia de Datos de la Universidad de Sonora. El ojetivo general del presente proyecto es aplicar algunas de las herramientas vistas durante el curso. De entre estas herramientas, se destaca la creación y manipulación de estructuras de datos en SQL. Esto se efectúa dentro de un entorno de programación Python, de modo que dichas manipulaciones puedan complementarse con visualizaciones de la relación entre variables.
 
